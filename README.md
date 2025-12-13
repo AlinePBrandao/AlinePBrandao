@@ -2,8 +2,6 @@
 
 Olá, sou a Aline 🙋🏻. Graduada em Sistemas de Informação pela Universidade Vila Velha (UVV), após um longo período atuando na área de Gestão de Projetos e Clientes dei início ao processo de migração de carreira para Desenvolvimento Back-end com foco em Java. Tenho experiência em Metodologias Ágeis - Scrum, Lean, Kanbam e conhecimentos em Modelagem de Banco de Dados, MySQL, PostgresSQL ☕. 
 
-Estou iniciando o curso de Pós-Graduação em Arquitetura de Sistemas Distribuídos pela PUC-MG. 
-
 - 📌 Vila Velha/ES.
 - 👩🏻‍💻 Java Developer.
 - 🔍 Aberta a desafios para a minha evolução como Desenvolvedora.
