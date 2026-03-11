@@ -1,6 +1,7 @@
 # Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25>
 
-Olá, sou a Aline 🙋🏻. Graduada em Sistemas de Informação pela Universidade Vila Velha (UVV), após um longo período atuando na área de Gestão de Projetos e Clientes dei início ao processo de migração de carreira para Desenvolvimento Back-end com foco em Java. Tenho experiência em Metodologias Ágeis - Scrum, Lean, Kanbam e conhecimentos em Modelagem de Banco de Dados, MySQL, PostgresSQL ☕. 
+Olá, sou a Aline 🙋🏻. Graduada em Sistemas de Informação pela Universidade Vila Velha (UVV), atualmente em transição de carreira para Desenvolvimento Back-end com Java. Tenho experiência nas áreas de Gestão de Projetos, Implantação de Software e Customer Success, o que me proporcionou conhecimentos em Mapeamento e Gestão de Processos; Metodologias Ágeis - Scrum, Lean, Kanbam; Modelagem de Banco de Dados, MySQL, PostgresSQL ☕. 
+
 
 - 📌 Vila Velha/ES.
 - 👩🏻‍💻 Java Developer.
@@ -12,10 +13,11 @@ Olá, sou a Aline 🙋🏻. Graduada em Sistemas de Informação pela Universida
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinePBrandao&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Cursos 📚
+- <a href="#" target="_blank">[Java10x - Horário Fiasco](https://java10x.dev/?couponCode=KEEPLEARNING) 🍍</a>
+- <a href="#" target="_blank">[Banco de Dados - RocketSeat](https://app.rocketseat.com.br/journey/banco-de-dados/overview/?couponCode=KEEPLEARNING) 🚀</a>
+- <a href="#" target="_blank">[Java Spring - Nelio Alves](https://devsuperior.com.br/colecao-java-spring/?couponCode=KEEPLEARNING) 🌿 </a>
 - <a href="#" target="_blank">[Java COMPLETO Programação Orientada a Objetos - Nelio Alves](https://www.udemy.com/course/java-curso-completo/?couponCode=KEEPLEARNING) ☕</a>
-- <a href="#" target="_blank">[SQL Explorer e MySQL Explorer na Oracle University](https://mylearn.oracle.com/) ☕</a>
-- <a href="#" target="_blank">[Bootcamp Java com Spring Boot na Digital Innovation One](https://web.dio.me/track/coding-the-future-claro-java-spring-boot?utm_source=engagement&utm_medium=email&utm_campaign=coding-the-future-claro-java-spring-boot&utm_term=bootcamp-users&utm_content=enrollment-cta) ☕</a>
-- <a href="#" target="_blank">[Ignite - Java](https://app.rocketseat.com.br/journey/java/overview) ☕</a>
+- <a href="#" target="_blank">[SQL Explorer e MySQL Explorer na Oracle University](https://mylearn.oracle.com/) 🎲 </a>
 
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>
 
