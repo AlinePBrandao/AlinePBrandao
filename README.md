@@ -17,7 +17,7 @@ Olá, sou a Aline 🙋🏻. Graduada em Sistemas de Informação pela Universida
 - <a href="#" target="_blank">[Banco de Dados - RocketSeat](https://app.rocketseat.com.br/journey/banco-de-dados/overview/?couponCode=KEEPLEARNING) 🚀</a>
 - <a href="#" target="_blank">[Java Spring - Nelio Alves](https://devsuperior.com.br/colecao-java-spring/?couponCode=KEEPLEARNING) 🌿 </a>
 - <a href="#" target="_blank">[Java COMPLETO Programação Orientada a Objetos - Nelio Alves](https://www.udemy.com/course/java-curso-completo/?couponCode=KEEPLEARNING) ☕</a>
-- <a href="#" target="_blank">[SQL Explorer e MySQL Explorer na Oracle University](https://mylearn.oracle.com/) 🎲 </a>
+- <a href="#" target="_blank">[SQL Explorer e MySQL Explorer - Oracle University](https://mylearn.oracle.com/) 🎲 </a>
 
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>
 
