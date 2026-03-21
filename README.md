@@ -32,7 +32,7 @@ Olá, sou a Aline 🙋🏻. Graduada em Sistemas de Informação pela Universida
 
 
 ## Me encontre aqui 👇🏻
-<a href="https://www.linkedin.com/in/aline-brandao-p/" target="_blank"> 
+<a href="https://www.linkedin.com/in/alinepbrandao/" target="_blank"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
  <a href="mailto:alinep02brandao@gmail.com">
