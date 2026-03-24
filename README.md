@@ -12,6 +12,12 @@ Olá, sou a Aline 🙋🏻. Graduada em Sistemas de Informação pela Universida
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlinePBrandao&theme=dark&show_icons=true&card_width=400)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinePBrandao&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larissadantier/larissadantier/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larissadantier/larissadantier/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larissadantier/larissadantier/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Cursos 📚
 - <a href="#" target="_blank">[Java10x - Horário Fiasco](https://java10x.dev/?couponCode=KEEPLEARNING) 🍍</a>
 - <a href="#" target="_blank">[Banco de Dados - RocketSeat](https://app.rocketseat.com.br/journey/banco-de-dados/overview/?couponCode=KEEPLEARNING) 🚀</a>
